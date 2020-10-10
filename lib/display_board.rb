@@ -7,4 +7,4 @@ def display_board()
 end
 
 TicTacToe = display_board
-re TicTacToe
+
