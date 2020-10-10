@@ -6,5 +6,5 @@ def display_board()
   puts "   |   |   "
 end
 
-TicTacToe = display_board
+puts display_board
 
